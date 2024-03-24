@@ -1,5 +1,4 @@
 
-```
 # Diet Plan Recommendation System
 
 ## Introduction
@@ -36,7 +35,7 @@ To run the diet plan recommendation system locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/diet-plan-recommendation.git
+   git clone https://github.com/tanvisharma31/diet-plan-recommendation.git
    ```
 
 2. Navigate to the project directory:
@@ -57,8 +56,4 @@ To run the diet plan recommendation system locally, follow these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Inspiration: [Provide any inspiration or credits for third-party libraries, datasets, etc.]
-- References: [List any references or resources used in developing the recommendation system.]
-```
